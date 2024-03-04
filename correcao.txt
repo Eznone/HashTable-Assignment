@@ -1,0 +1,5 @@
+Codigo: 8/10
+Relatorio: 1.5/2
+
+Nota final com remoção de 0.1 a cada 500 colisões: 9.5 - 1.5 = 8
+COLISOES 9584
